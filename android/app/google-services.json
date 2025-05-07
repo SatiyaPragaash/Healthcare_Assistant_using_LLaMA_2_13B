@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "491582290615",
+    "project_id": "chat-bot-abfba",
+    "storage_bucket": "chat-bot-abfba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491582290615:android:b1df080ea2057bb7d3ab32",
+        "android_client_info": {
+          "package_name": "com.example.chat_bot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeUSlamhOJHQxs31xPj2YVFgYZmEkbED4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
